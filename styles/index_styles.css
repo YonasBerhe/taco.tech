@@ -1,11 +1,16 @@
 body {
 	text-align: center;
+	background-image: url('http://f.fastcompany.net/multisite_files/fastcompany/poster/2014/11/3038762-poster-p-1-behold-the-taco-emoji.jpg');
 	background-size: cover;
+	font-family: Arial, sans-serif;
+
 }
 #taco {
 	border-radius: 15px;
 }
 .jumbotron {
+	height: 500px;
+	font-family: saloon;
 	background: rgba(0,0,0,0.7);
 	color: white;
 }
